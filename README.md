@@ -65,7 +65,7 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 ##
 <p align="center">𝐇𝐨𝐬𝐭𝐢𝐧𝐠 𝐔𝐬𝐢𝐧𝐠 DragonUserBot</p>
-Want Host for a Demo? Just Use https://t.me/ZaidUserBot To Host In seconds!
+Want Host for a Demo? Just Use https://t.me/DragonUB_BotBot To Host In seconds!
 Watch Tutorial!
 <p align="center"><a href="https://youtu.be/uFYUAc89cSU"> <img src="https://img.shields.io/badge/DragonUserBot%20Deploy-red?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
@@ -85,12 +85,12 @@ Watch Tutorial!
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/97e6de197eba98d2caba5.jpg" align="right" width="350" height="700"/>
+<img src="https://telegra.ph/file/dada6fbcbb38a89a944b3.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
 - Fill your values there.
-- If you don't know how to get config vars : [Please refer here](https://github.com/ITZ-ZAID/Zaid-Vc-Player/blob/main/sample.env)
+- If you don't know how to get config vars : [Please refer here](https://github.com/RACHIT_KUSHWAHA/DragonUB/blob/main/sample.env)
 - Make sure you fill correct values.
 - Click on **Deploy** button.
 - Please wait till the app gets deployed on heroku. Deploying can take upto **2-3 mins**..
