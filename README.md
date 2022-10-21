@@ -14,7 +14,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RACHIT-KUSHWAHA&repo=DragonUB&theme=dark)
 
 <h4 align="center"> 🚫 DISCLAIMER 🚫 </p>
 
@@ -64,10 +64,10 @@ and you ended up in a Finale Battle with Telegram and at the end
 <p align="center"><a href="https://youtu.be/nQAyresJTC0"> <img src="https://img.shields.io/badge/Youtube%20Deploy-red?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
 ##
-<p align="center">𝐇𝐨𝐬𝐭𝐢𝐧𝐠 𝐔𝐬𝐢𝐧𝐠 ZaidUserBot</p>
+<p align="center">𝐇𝐨𝐬𝐭𝐢𝐧𝐠 𝐔𝐬𝐢𝐧𝐠 DragonUserBot</p>
 Want Host for a Demo? Just Use https://t.me/ZaidUserBot To Host In seconds!
 Watch Tutorial!
-<p align="center"><a href="https://youtu.be/uFYUAc89cSU"> <img src="https://img.shields.io/badge/ZaidUserBot%20Deploy-red?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://youtu.be/uFYUAc89cSU"> <img src="https://img.shields.io/badge/DragonUserBot%20Deploy-red?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
 ## 
 <p align="center"> "𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒"</p>
