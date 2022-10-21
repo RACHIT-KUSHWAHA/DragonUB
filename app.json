@@ -1,8 +1,8 @@
 {
     "name": "DragonUserbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg",
-    "repository": "https://github.com/Itz-Zaid/Zaid-Userbot",
+    "logo": "https://telegra.ph/file/dada6fbcbb38a89a944b3.jpg",
+    "repository": "https://github.com/RACHIT-KUSHWAHA/DragonUB",
     "env": {
         "STRING_SESSION1": {
             "description": "pyrogram string session here",
@@ -17,7 +17,7 @@
             "required": false
         },
         "LOG_GROUP": {
-            "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @Zaid2_Robot and type /id, if channel then forward a message to @Zaid2_Robot.)",
+            "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @DRAG0N69BOT and type /id, if channel then forward a message to @DRAG0N69BOTt.)",
             "required": false
         },
         "SUDO_USERS": {
