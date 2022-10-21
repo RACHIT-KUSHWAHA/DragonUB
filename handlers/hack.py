@@ -32,4 +32,4 @@ async def hak(client: Client, message: Message):
   asyncio.sleep(2)
   await message.edit_text("Hacking complete!\nUploading file...")
   asyncio.sleep(2)
-  await message.edit_text("Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12`")
+  await message.edit_text("Targeted Account Hacked By DRAGON...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12`")
