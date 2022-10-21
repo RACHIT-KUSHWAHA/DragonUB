@@ -13,8 +13,8 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-API_ID = 6435225
-API_HASH = "4e984ea35f854762dcde906dce426c2d" 
+API_ID = 15469484 
+API_HASH = "a4e47ac121ccd896f52fc815a9a10a8e" 
 LOG_GROUP = os.environ.get("LOG_GROUP", None)
 ALIVE_IMG = os.environ.get("ALIVE_PIC", None)
 STRING_SESSION1 = os.environ.get("STRING_SESSION1", None)
@@ -68,19 +68,19 @@ STRING_SESSION48 = os.environ.get("STRING_SESSION48", None)
 STRING_SESSION49 = os.environ.get("STRING_SESSION49", None)
 STRING_SESSION50 = os.environ.get("STRING_SESSION50", None) 
 
-SUDO_USERS = {int(x) for x in os.environ.get("SUDO_USERS", "1669178360").split()}
+SUDO_USERS = {int(x) for x in os.environ.get("SUDO_USERS", "5288428786").split()}
 DB_URL = os.environ.get("DATABASE_URL", None)
 MONGO_DBB = os.environ.get("MONGO_DB", None)
 
 if ALIVE_IMG:
     ALIVE_PIC = ALIVE_IMG
 else: 
-    ALIVE_PIC = 'https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg'
+    ALIVE_PIC = 'https://telegra.ph/file/dada6fbcbb38a89a944b3.jpg'
 
 if MONGO_DBB:
     MONGO_DB = MONGO_DBB
 else: 
-    MONGO_DB = "mongodb+srv://Zaid:Zaid@cluster0.4bszo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    MONGO_DB = "mongodb+srv://dragonboturl:<password>@cluster0.8svdrpn.mongodb.net/?retryWrites=true&w=majority"
 
 if LOG_GROUP:
     Owner = LOG_GROUP
@@ -544,8 +544,8 @@ if bot50:
     bot50.join_chat("Superior_Bots")
     bot50.join_chat("Superior_Support")
 
-print("🎉 Successfully Deployed 🎉 @Timesisnotwaiting")
-print("Enjoy! Do visit @Superiro_Bots")
+print("🎉 Successfully Deployed 🎉 @ITS_DRAGON_BOY")
+print("Enjoy! Do visit @ANDRO_DEZINE")
 
 idle()
 
