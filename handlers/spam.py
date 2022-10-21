@@ -88,7 +88,7 @@ async def slowspam(client: Client, message: Message):
         return
 
     for _ in range(quantity):
-        await zaid.delete()
+        await DRAGON.delete()
         msg = await client.send_message(message.chat.id, spam_text)
         await asyncio.sleep(0.9)
 
@@ -104,7 +104,7 @@ async def statspam(client: Client, message: Message):
     quantity = int(quantity)
     await message.delete()
     for i in range(quantity):
-        await zaid.delete()
+        await DRAGON.delete()
         msg = await client.send_message(message.chat.id, spam_text)
         await asyncio.sleep(0.1)
         await msg.delete()
@@ -113,7 +113,7 @@ async def statspam(client: Client, message: Message):
 
 @Client.on_message(filters.command("spam", ".") & filters.me)
 async def spam(client: Client, message: Message):
-    zaid = await message.reply_text("⚡ Usage:\n /spam 10 Umm")
+    DRAGON = await message.reply_text("⚡ Usage:\n /spam 10 Umm")
     quantity = message.command[1]
     spam_text = ' '.join(message.command[2:])
     quantity = int(quantity)
@@ -127,7 +127,7 @@ async def spam(client: Client, message: Message):
         return
 
     for _ in range(quantity):
-        await zaid.delete()
+        await DRAGON.delete()
         await client.send_message(message.chat.id, spam_text)
         await asyncio.sleep(0.15)
 
@@ -135,7 +135,7 @@ async def spam(client: Client, message: Message):
 
 @Client.on_message(filters.command("fastspam", ".") & filters.me)
 async def fastspam(client: Client, message: Message):
-    zaid = await message.reply_text("⚡ Usage:\n /fastspam 10 Umm")
+    DRAGON = await message.reply_text("⚡ Usage:\n /fastspam 10 Umm")
     quantity = message.command[1]
     spam_text = ' '.join(message.command[2:])
     quantity = int(quantity)
@@ -149,14 +149,14 @@ async def fastspam(client: Client, message: Message):
         return
     
     for _ in range(quantity):
-        await zaid.delete()
+        await DRAGON.delete()
         await client.send_message(message.chat.id, spam_text)
         await asyncio.sleep(0.002)
 
 
 @Client.on_message(filters.command(["slowspam", "delayspam"], ".") & filters.me)
 async def slowspam(client: Client, message: Message):
-    zaid = await message.reply_text("⚡ Usage:\n /slowspam 10 Umm")
+    DRAGON = await message.reply_text("⚡ Usage:\n /slowspam 10 Umm")
     quantity = message.command[1]
     spam_text = ' '.join(message.command[2:])
     quantity = int(quantity)
@@ -170,7 +170,7 @@ async def slowspam(client: Client, message: Message):
         return
 
     for _ in range(quantity):
-        await zaid.delete()
+        await DRAGON.delete()
         msg = await client.send_message(message.chat.id, spam_text)
         await asyncio.sleep(0.9)
 
